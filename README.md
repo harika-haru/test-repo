@@ -13,14 +13,4 @@ Commit the repo using git
 
 Thus your files will be uploaded in the Github using Git
 
-Commit repo using VS Code
-1. Create a repo in the github and copy the https code.
-2. search cmd and type git clone https-code
-3.  Make sure that you are in right folder location in the command prompt.
-4.  Open Vs Code and open the folder.
-5.  Go to the Source Control (Cntrl + Shift + G)
-6.  Add files in the VS Code.
-7.  To commit changes type First commit in the Source Control.
-8.  After that click on the 3 dots near Source control and you will find an option to push click on that.
 
-Thus your files will be uploaded in the Github using VS Code
