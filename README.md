@@ -22,6 +22,12 @@ Commit repo using VS Code
 6.  Add files in the VS Code.
 7.  To commit changes type First commit in the Source Control.
 8.  After that click on the 3 dots near Source control and you will find an option to push click on that.
+
+Pull Request & Merge:
+1. Create a repo and upload the files in the github using git or VS Code. 
+2. Go to the Pull section and click on add pull request.
+3. Then give a title to the pull request and click on merge.
+4. Your will see that the files are merged. 
   
 
 Thus your files will be uploaded in the Github using VS Code
