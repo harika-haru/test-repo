@@ -26,4 +26,4 @@ Commit repo using VS Code
 
 Thus your files will be uploaded in the Github using VS Code
 
-THNK YOU
+THANK YOU
