@@ -27,7 +27,7 @@ Pull Request & Merge:
 1. Create a repo and upload the files in the github using git or VS Code. 
 2. Go to the Pull section and click on add pull request.
 3. Then give a title to the pull request and click on merge.
-4. Your files will be merged. 
+4. Your will see that the files are merged. 
   
 
 Thus your files will be uploaded in the Github using VS Code
